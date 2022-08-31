@@ -12,6 +12,7 @@ public class Player : MonoBehaviour
     public int CurrentHighScore;
     void Start()
     {
+     
     }
     void Update()
     {
